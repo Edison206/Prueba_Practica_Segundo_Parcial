@@ -1,0 +1,54 @@
+Estudiante: Edison Landeta
+Fecha:      13/05/2026
+Lenguaje:   C++
+Promedio:   7
+Nota mayor: 9
+Nota menor: 5
+Aprobados:  3
+Reprobados: 2
+
+============================================================
+NOMINA DEL CURSO - ALGORITMOS Y LOGICA DE PROGRAMACION
+Universidad Tecnica de Ambato | FISEI | Carrera de Software
+Periodo: Enero 2026 - Julio 2026
+============================================================
+
+1.  Acosta Hanna
+2.  Andrade Hugo
+3.  Atiencia Josue
+4.  Balarrezo Diego
+5.  Barrionuevo Sol
+6.  Bedoya Juan
+7.  Bravo Samuel
+8.  Cajiao Paulo
+9.  Calvopina Brandon
+10. Castelo Katherine
+11. Chacha Victor
+12. Chiluiza Steed
+13. Dominguez Daniel
+14. Freire Alan
+15. Gualle Abisag
+16. Guaman Alexander
+17. Guanga Sebastian
+18. Guanotoa Karla
+19. Landeta Edison
+20. Lara Karen
+21. Loor Jhon
+22. Lopez Washington
+23. Miranda Imanol
+24. Monar Jhair
+25. Muyulema Mateo
+26. Narvaez Antonella
+27. Nunez Bryan
+28. Pilco Mario
+29. Pomaquero Katherine
+30. Quevedo Gina
+31. Rivadeneira Matias
+32. Rocha Carolina
+33. Sanchez Isaac
+34. Segovia Joseph
+35. Supe Joan
+36. Toapanta Matias
+37. Verdesoto Kevin
+38. Villacres Alejandro
+39. Viteri Shantal
